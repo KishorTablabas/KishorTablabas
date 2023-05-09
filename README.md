@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m Kishor Jagtap
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning...
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 </div>
